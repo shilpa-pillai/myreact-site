@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/myreact-site/static/css/main.bdeb7a9a.chunk.css",
+    "main.js": "/myreact-site/static/js/main.261ef7d0.chunk.js",
+    "main.js.map": "/myreact-site/static/js/main.261ef7d0.chunk.js.map",
+    "runtime-main.js": "/myreact-site/static/js/runtime-main.c571611a.js",
+    "runtime-main.js.map": "/myreact-site/static/js/runtime-main.c571611a.js.map",
+    "static/js/2.1448ddb5.chunk.js": "/myreact-site/static/js/2.1448ddb5.chunk.js",
+    "static/js/2.1448ddb5.chunk.js.map": "/myreact-site/static/js/2.1448ddb5.chunk.js.map",
+    "index.html": "/myreact-site/index.html",
+    "static/css/main.bdeb7a9a.chunk.css.map": "/myreact-site/static/css/main.bdeb7a9a.chunk.css.map",
+    "static/js/2.1448ddb5.chunk.js.LICENSE.txt": "/myreact-site/static/js/2.1448ddb5.chunk.js.LICENSE.txt",
+    "static/media/doctor1.935a8254.png": "/myreact-site/static/media/doctor1.935a8254.png",
+    "static/media/doctor2.0d586ef0.png": "/myreact-site/static/media/doctor2.0d586ef0.png",
+    "static/media/doctor3.ed0ec9a6.png": "/myreact-site/static/media/doctor3.ed0ec9a6.png",
+    "static/media/doctor4.1c240fcf.png": "/myreact-site/static/media/doctor4.1c240fcf.png",
+    "static/media/Header.css": "/myreact-site/static/media/headerBkg.eaa1c7f6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c571611a.js",
+    "static/js/2.1448ddb5.chunk.js",
+    "static/css/main.bdeb7a9a.chunk.css",
+    "static/js/main.261ef7d0.chunk.js"
+  ]
+}
